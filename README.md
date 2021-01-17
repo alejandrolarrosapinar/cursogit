@@ -1,2 +1,2 @@
 # cursogit
-modificamos README.md new_master
+modificamos README.md new_master2
